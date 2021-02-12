@@ -1,16 +1,16 @@
 {
-  "main.css": "/robo_pwaa/static/css/main.c6b76a58.chunk.css",
-  "main.js": "/robo_pwaa/static/js/main.b8631143.chunk.js",
-  "main.js.map": "/robo_pwaa/static/js/main.b8631143.chunk.js.map",
+  "main.css": "/robo_pwaa/static/css/main.faac5914.chunk.css",
+  "main.js": "/robo_pwaa/static/js/main.46fb8899.chunk.js",
+  "main.js.map": "/robo_pwaa/static/js/main.46fb8899.chunk.js.map",
   "runtime~main.js": "/robo_pwaa/static/js/runtime~main.31576165.js",
   "runtime~main.js.map": "/robo_pwaa/static/js/runtime~main.31576165.js.map",
   "static/css/2.b1213e29.chunk.css": "/robo_pwaa/static/css/2.b1213e29.chunk.css",
   "static/js/2.142f09da.chunk.js": "/robo_pwaa/static/js/2.142f09da.chunk.js",
   "static/js/2.142f09da.chunk.js.map": "/robo_pwaa/static/js/2.142f09da.chunk.js.map",
   "index.html": "/robo_pwaa/index.html",
-  "precache-manifest.9c60ccaadc0f452610f4924c3fcf5b20.js": "/robo_pwaa/precache-manifest.9c60ccaadc0f452610f4924c3fcf5b20.js",
+  "precache-manifest.1be5969d283bfeca3283ba7faf60118b.js": "/robo_pwaa/precache-manifest.1be5969d283bfeca3283ba7faf60118b.js",
   "service-worker.js": "/robo_pwaa/service-worker.js",
   "static/css/2.b1213e29.chunk.css.map": "/robo_pwaa/static/css/2.b1213e29.chunk.css.map",
-  "static/css/main.c6b76a58.chunk.css.map": "/robo_pwaa/static/css/main.c6b76a58.chunk.css.map",
+  "static/css/main.faac5914.chunk.css.map": "/robo_pwaa/static/css/main.faac5914.chunk.css.map",
   "static/media/App.css": "/robo_pwaa/static/media/SEGA.12a3db8b.woff"
 }
