@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/robo_pwaa/static/js/runtime~main.31576165.js"
   },
   {
-    "revision": "648d57e9310e1358b506",
-    "url": "/robo_pwaa/static/js/main.02690c5e.chunk.js"
+    "revision": "a0dd7645a68fadf7e688",
+    "url": "/robo_pwaa/static/js/main.b8631143.chunk.js"
   },
   {
-    "revision": "41feebb74b4b8edaf246",
-    "url": "/robo_pwaa/static/js/2.f62e9e97.chunk.js"
+    "revision": "709d949f2929ed0708c6",
+    "url": "/robo_pwaa/static/js/2.142f09da.chunk.js"
   },
   {
-    "revision": "648d57e9310e1358b506",
+    "revision": "a0dd7645a68fadf7e688",
     "url": "/robo_pwaa/static/css/main.c6b76a58.chunk.css"
   },
   {
-    "revision": "41feebb74b4b8edaf246",
+    "revision": "709d949f2929ed0708c6",
     "url": "/robo_pwaa/static/css/2.b1213e29.chunk.css"
   },
   {
-    "revision": "654e1e9be88321efe55cf86134fcb93c",
+    "revision": "94f698ede314f0b88bc0372ec8b65657",
     "url": "/robo_pwaa/index.html"
   }
 ];
